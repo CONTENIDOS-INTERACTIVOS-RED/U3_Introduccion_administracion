@@ -54,12 +54,12 @@ export default {
   border-radius: 5px 5px 0px 0px
   background-color: #FEF8E7
 .linea-tiempo-d__item__content__title.active
-  background-color: #F9C623
+  background-color: #F9E6C3
 .linea-tiempo-d__item__content__slot
   border-radius: 0px 0px 5px 5px
   background-color: #FDEDBB
 .linea-tiempo-d__item__number
   background-color: #FEF8E7
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-  background-color: #F9C623 !important
+  background-color: #F9E6C3 !important
 </style>
