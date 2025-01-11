@@ -1,1 +1,1 @@
-module.exports = 'CIRED'
+module.exports = 'Administración en el entorno actual'
