@@ -102,14 +102,102 @@ export default {
   },
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Mantilla Duarte, A. M. & Martínez Velandia, L. E. (2023). Administración estratégica de A y B: Segunda parte. Bubok Publishing S.L.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/260544?page=1',
+    },
+    {
+      referencia:
+        'Torres Hernández, Z. (2015). Administración estratégica. Grupo Editorial Patria.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39403?page=3',
+    },
+    {
+      referencia:
+        'Reinoso Lastra, J. F., Vera Calderón, J. A. & Ramírez Ramírez, E. A. (2023). Gestión de la cultura y el cambio organizacional. Sello Editorial Universidad del Tolima.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/232951?page=1',
+    },
+    {
+      referencia:
+        'Gallardo Gallardo, E. (2015). ¿Cómo gestionar el cambio en una organización? Editorial UOC.',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/57894?page=1',
+    },
+    {
+      referencia:
+        'Luna González, A. C. (2015). Administración estratégica. Grupo Editorial Patria.',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/39421?page=292',
+    },
+    {
+      referencia:
+        'Gorrochategui, N. (2019). Responsabilidad Social de las Organizaciones (rso): Estudios desde la mirada de la Responsabilidad Social hacia los Objetivos de Desarrollo Sostenible en América Latina. RIL editores.',
+      link: 'https://elibro.net/es/tc/tecnologicadeloriente/titulos/130137',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Adaptación',
+      significado:
+        'Proceso mediante el cual una organización ajusta sus estrategias, estructuras o procesos para enfrentar cambios en el entorno.',
+    },
+    {
+      termino: 'Cambio organizacional',
+      significado:
+        'El proceso de modificar aspectos fundamentales de la estructura, la cultura o las operaciones dentro de una organización.',
+    },
+    {
+      termino: 'Comunicación',
+      significado:
+        'Proceso mediante el cual se transmiten e intercambian ideas, instrucciones e información dentro de una organización.',
+    },
+    {
+      termino: 'Competencia',
+      significado:
+        'La capacidad de una organización para ofrecer productos o servicios de manera más eficaz que sus rivales.',
+    },
+    {
+      termino: 'Cultura organizacional',
+      significado:
+        'El conjunto de valores, creencias, comportamientos y normas que comparten los miembros de una organización.',
+    },
+    {
+      termino: 'Delegación',
+      significado:
+        'El proceso de asignar responsabilidades y autoridad a otros miembros dentro de la estructura jerárquica.',
+    },
+    {
+      termino: 'Estrategia',
+      significado:
+        'Un plan de acción que guía a la organización hacia la consecución de sus objetivos a largo plazo.',
+    },
+    {
+      termino: 'Gestión del cambio',
+      significado:
+        'El proceso de planificar y gestionar las transformaciones dentro de una organización para garantizar su éxito y sostenibilidad.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'La introducción de nuevos productos, servicios, procesos o métodos dentro de una organización para mejorar su competitividad.',
+    },
+    {
+      termino: 'Liderazgo',
+      significado:
+        'La habilidad de influir, motivar y guiar a los miembros de una organización para alcanzar metas comunes.',
+    },
+    {
+      termino: 'Misión',
+      significado:
+        'La razón fundamental por la cual existe una organización, generalmente expresada en términos de su propósito y objetivos.',
+    },
+    {
+      termino: 'Objetivos',
+      significado:
+        'Metas específicas que una organización se propone alcanzar dentro de un período determinado.',
+    },
+    {
+      termino: 'Planificación',
+      significado:
+        'El proceso de definir metas y desarrollar estrategias para alcanzar esas metas dentro de un marco temporal determinado.',
     },
   ],
   complementario: [],

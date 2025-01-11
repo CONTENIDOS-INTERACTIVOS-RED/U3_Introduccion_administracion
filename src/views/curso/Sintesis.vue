@@ -2,7 +2,7 @@
 .curso-main-container.creditos-vista
   BannerInterno(subTitulo="SÍNTESIS")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p(data-aos="fade-up").mb-5 Esta unidad analiza el sistema de ciencia, tecnología e innovación en Colombia, describiendo el marco institucional, la educación y formación en CTeI, así como las iniciativas de investigación y desarrollo que fomentan la innovación en sectores estratégicos. También revisa el ecosistema de emprendimiento que promueve la democratización del conocimiento, retos y oportunidades para el país.
+    p(data-aos="fade-up").mb-5 La Unidad 3: Administración en el entorno actual, explora enfoques estratégicos esenciales para gestionar organizaciones en contextos dinámicos y cambiantes. A través de temas como la administración estratégica, la innovación, la gestión del cambio y la responsabilidad social empresarial, esta unidad permite a los estudiantes comprender las herramientas necesarias para liderar con visión, promover prácticas sostenibles y responder a los desafíos contemporáneos. Este enfoque integral fortalece las competencias necesarias para la toma de decisiones acertadas y el impulso de iniciativas que aseguren el éxito organizacional en el entorno global.
       .row.justify-content-center
         .col-lg-12.mb-5
           figure.bg-color-sintesis.p-5.brounded
