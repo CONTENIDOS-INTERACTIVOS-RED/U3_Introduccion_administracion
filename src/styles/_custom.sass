@@ -75,6 +75,8 @@
     background-color: #EDAE3B
   &-12
     background-color: #E89076
+  &-13
+    background-color: #D0CBD3
   &-sintesis
     background-color: #F9F9F9
   &-white
@@ -232,7 +234,7 @@ $custom-card-img-height: 322px
 
 
 .lista-ol--cuadro__vineta
-  background-color: $color-secundario
+  background-color: $color-acento-contenido
   color: #000
   min-width: 32px
   min-width: 28px
@@ -286,3 +288,48 @@ i.fas.fa-quote-left
     border-top: 5px solid $color-secundario !important
   &.color-terciario
     border-top: 5px solid $color-terciario !important
+.img-over
+  z-index: 2
+  position: relative
+.bg-part
+  &-1
+    background-size: cover
+    background-repeat: no-repeat
+    margin-inline: -3.7rem
+    position: relative
+    overflow: hidden
+    &::before
+      content: ''
+      position: absolute
+      bottom: 0
+      left: 0
+      width: 100%
+      height: 93%
+      background-color: #F7EAD7
+      z-index: 1
+    @media screen and (max-width: bp-max-sm)
+      padding-left: 1.5rem
+      padding-right: 1.5rem
+      &::before
+        height: 100%
+
+  &-2
+    background-size: cover
+    background-repeat: no-repeat
+    margin-inline: -3.7rem
+    position: relative
+    overflow: hidden
+    &::before
+      content: ''
+      position: absolute
+      bottom: 0
+      left: 0
+      width: 100%
+      height: 93%
+      background-color: #CFE3DC
+      z-index: 1
+    @media screen and (max-width: bp-max-sm)
+      padding-left: 1.5rem
+      padding-right: 1.5rem
+      &::before
+        height: 100%

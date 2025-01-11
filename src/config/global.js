@@ -15,26 +15,34 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: '',
+        titulo: 'Administración estratégica y toma de decisiones',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: '',
+            titulo: 'Definición de la administración estratégica',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: '',
+            titulo: 'La estrategia como proceso emergente',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: '',
+            titulo:
+              'Función del gobierno corporativo y administración de los grupos de interés',
             hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo:
+              'Perspectivas alternas de la administración de grupos de interés',
+            hash: 't_1_4',
           },
         ],
       },
