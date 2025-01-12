@@ -22,7 +22,7 @@
             p.mt-4 Lo invitamos a escuchar el siguiente pódcast, para estudiar la temática.
             TarjetaAudio.bg-white.mb-0(
               texto="Definición de la administración estratégica"
-              :audio="require('../../assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('../../assets/componentes/audios/definicion_administracion_estrategica.mp3')"
             )
           .col-sm-12.col-lg-5.d-none.d-lg-block
             img(src='@/assets/curso/t1/3.svg')
