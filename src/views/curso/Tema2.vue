@@ -204,7 +204,7 @@
           .col-lg-7
              h2.mb-4 Gestión del cambio en las organizaciones
              p.mb-4 En el PDF #[strong Gestión del cambio en las organizaciones], se analizan las fases claves del cambio, desde el diagnóstico hasta la implementación y el ajuste, además de los desafíos asociados, como la resistencia organizacional y las amenazas al equilibrio interno. Asimismo, se presentan estrategias prácticas para superar estas barreras, como la educación, la comunicación efectiva y la participación activa de los empleados, acompañadas de ejemplos ilustrativos que destacan casos exitosos en transformación digital, reestructuración organizacional y cambio cultural en empresas globales.
-             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/PEND.pdf")' target='_blank')
+             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/gestion_cambio_organizaciones.pdf")' target='_blank')
                .anexo__icono(:style='{"background-color": "#FCDFDB"}')
                   img(src='@/assets/template/icono-pdf.svg')
                .anexo__texto

@@ -131,7 +131,7 @@
           .col-lg-7
              h2.mb-4 La estrategia como proceso emergente 
              p.mb-4 En el PDF #[strong La estrategia como proceso emergente], se examinan conceptos claves como el análisis estratégico, la posición y diagnóstico del entorno organizacional, y la implementación de estrategias, ofreciendo un enfoque integral para entender cómo las organizaciones diseñan y ejecutan estrategias efectivas en contextos cambiantes.
-             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/PEND.pdf")' target='_blank')
+             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/estrategia_como_proceso_emergente.pdf")' target='_blank')
                .anexo__icono(:style='{"background-color": "#FCDFDB"}')
                   img(src='@/assets/template/icono-pdf.svg')
                .anexo__texto
@@ -257,7 +257,7 @@
           .col-lg-7
              h2.mb-4 Perspectiva de la administración estratégica: un imperativo en toda la organización
              p.mb-4 En el PDF #[strong Perspectiva de la administración estratégica], se analizan los procesos de toma de decisiones, su clasificación, y las estrategias organizativas y procedimentales, necesarias para enfrentar problemas y conflictos de manera eficaz, destacando la importancia de un enfoque integral y colaborativo en todos los niveles.
-             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/PEND.pdf")' target='_blank')
+             a.anexo.mb-4.bg-white.w-fit(:href='obtenerLink("/downloads/perspectiva_administracion_estrategica.pdf")' target='_blank')
                .anexo__icono(:style='{"background-color": "#FCDFDB"}')
                   img(src='@/assets/template/icono-pdf.svg')
                .anexo__texto
