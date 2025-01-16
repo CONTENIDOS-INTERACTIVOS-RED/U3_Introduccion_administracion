@@ -113,7 +113,7 @@
             p.mb-0 La empresa no debe practicar ni apoyar el uso del trabajo obligatorio o forzoso; tiene la prohibición de retener salarios, beneficios, documentos de identidad o pertenencias de los trabajadores; el personal debe tener derecho a salir del centro de trabajo después de completar su día laborable y es libre de terminar la relación laboral, en tanto lo notifique, con tiempo razonable, a su empleador.
           
           div(titulo='Seguridad y salud')
-            p.mb-0 Proveer un ambiente de trabajo seguro y saludable y adoptar medidas efectivas para prevenir potenciales accidentes y lesiones a la salud del trabajador, surgidos por el trabajo o asociados a él o, también originados durante el mismo, minimizando en la medida que sea razonable, las causas de los peligros inherentes al ambiente de trabajo y teniendo en cuenta el conocimiento actual del sector y de cualquier peligro específico
+            p.mb-0 Proveer un ambiente de trabajo seguro y saludable y adoptar medidas efectivas para prevenir potenciales accidentes y lesiones a la salud del trabajador, surgidos por el trabajo o asociados a él o, también originados durante el mismo, minimizando en la medida que sea razonable, las causas de los peligros inherentes al ambiente de trabajo y teniendo en cuenta el conocimiento actual del sector y de cualquier peligro específico.
 
           div(titulo='Derecho de sindicalización')
             p.mb-0 Derecho de formar, afiliarse y organizar asociaciones sindicales, negociar colectivamente con la empresa, informar; existe la libertad de afiliarse a una organización sin represalias por parte de la empresa.
@@ -182,7 +182,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta
               span 1
-            p.mb-0 Son siete principios que rigen esta norma, los cuales son:
+            p.mb-0 Rendición de cuentas.
           li.d-flex
             .lista-ol--cuadro__vineta
               span 2
