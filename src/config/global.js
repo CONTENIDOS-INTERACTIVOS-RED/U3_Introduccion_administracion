@@ -77,7 +77,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Normatividad internacional RSEión',
+            titulo: 'Normatividad internacional RSE',
             hash: 't_3_1',
           },
           {

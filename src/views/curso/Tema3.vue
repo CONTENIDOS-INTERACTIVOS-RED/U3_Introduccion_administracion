@@ -87,7 +87,7 @@
                           p.mb-0 2005. Entra en vigor el Protocolo de Kioto al Convenio Marco de las Naciones Unidas sobre Cambio Climático.
 
     #t_3_1.titulo-segundo(data-aos='fade-up')
-      h2 #[span 3.1] Normatividad internacional RSEión
+      h2 #[span 3.1] Normatividad internacional RSE
     .row.justify-content-center.mb-5(data-aos='fade-up')
       .col-sm-12.col-lg-8
         p.mb-5 SAI – Social Accountability International. Fundada en 1997, es una organización no gubernamental global que promueve los derechos humanos en el trabajo. La misión es promover los derechos humanos en el entorno laboral. La visión, un mundo donde los trabajadores, las empresas y las comunidades prosperen juntos.
@@ -136,7 +136,7 @@
             p.mb-4 El personal debe tener derecho a salir del centro de trabajo después de completar su día laborable y es libre de terminar la relación laboral, en tanto lo notifique, con tiempo razonable, a su empleador.
             p.mb-0 Ni la empresa ni entidad alguna que trabaje para ella, deben practicar o apoyar el tráfico de seres humanos.
           div(titulo='Horario de trabajo')
-            p.mb-0 La empresa debe cumplir con las leyes aplicables y las normas del sector en relación con las horas de trabajo y días festivos, asegurando que la semana laboral normal no exceda las 48 horas, excluyendo horas extraordinarias. Asimismo, debe garantizar al personal, al menos un día libre después de cada período consecutivo de seis días laborados. En caso de requerir horas extraordinarias para atender demandas a corto plazo, estas deben estar respaldadas por un acuerdo de negociación colectiva con las organizaciones laborales que representen una porción significativa de la fuerza de trabajo, cumpliendo estrictamente con los requisitos legales y normativos aplicables.
+            p.mb-0 La empresa debe cumplir con las leyes aplicables y las normas del sector en relación con las horas de trabajo y días festivos, asegurando que la semana laboral normal no exceda las 44 horas, excluyendo horas extraordinarias. Asimismo, debe garantizar al personal, al menos un día libre después de cada período consecutivo de seis días laborados. En caso de requerir horas extraordinarias para atender demandas a corto plazo, estas deben estar respaldadas por un acuerdo de negociación colectiva con las organizaciones laborales que representen una porción significativa de la fuerza de trabajo, cumpliendo estrictamente con los requisitos legales y normativos aplicables.
           
           div(titulo='Remuneración')
             p.mb-0 La empresa debe garantizar que los salarios pagados cumplan, como mínimo, con las normas legales o del sector, asegurando que sean suficientes para cubrir las necesidades básicas del personal y proporcionar cierta capacidad de gasto discrecional. Las horas extraordinarias deben ser reembolsadas, según las primas salariales establecidas por la legislación nacional; en caso que estas no estén reguladas, la compensación deberá ajustarse a una prima igual o superior a la predominante en el sector, priorizando los intereses de los trabajadores. Además, se prohíbe cualquier deducción salarial por razones disciplinarias.
